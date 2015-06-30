@@ -1,2 +1,0 @@
-# handcoding
-studygroup sorucecode
